@@ -9,7 +9,7 @@ Welcome to the Login Screen project! 🎉 This is a sleek and responsive login p
 - 🎨 Beautiful styling with CSS
 
 ## 🔗 Live Demo
-Check out the live version here: [https://iam269.github.io/loginscreen/](https://iam269.github.io/loginscreen/) 🌐
+Check out the live version here: [https://itsiamdev.github.io/loginscreen/](https://itsiamdev.github.io/loginscreen/) 🌐
 
 ## 📸 Screenshots
 
